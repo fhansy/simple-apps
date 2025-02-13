@@ -9,4 +9,4 @@ services:
       - myapp:/app
 volumes:
   myapp:
-  external: true
+    external: true
